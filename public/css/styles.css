@@ -1,0 +1,57 @@
+body{
+    background-color: #96E5EA;
+    
+}
+h1{
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    font-family: 'Indie Flower';
+    position: relative;
+    
+}
+.cloudsimg{
+    height: 150px;
+    width: 150px;
+    margin: 15px 100px;
+}
+.cloudsimg1{
+    height: 150px;
+    width: 150px;
+    margin: 50px 100px 100px;
+}
+.cloudsimg2{
+    height: 150px;
+    width: 150px;
+    margin: 10px 100px;
+}
+.cloudsimg3{
+    height: 150px;
+    width: 150px;
+    margin: 0 0 100px 100px;
+}
+.input{
+    margin-top: 100px;
+    
+}
+.inputtxt{
+    font-family: 'Indie Flower';
+    margin: 100px 0px 100px 300px;
+    color: white;
+    font-size: 40px;
+}
+#cityInput{
+    margin: 0 0 0 200px ;
+}
+.submit{
+    background-color: azure;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+    font-family: 'Indie Flower';
+    color: lightblue;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 12px;
+    margin:  0 10px 0 250px ;
+}
